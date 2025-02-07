@@ -131,7 +131,7 @@ function mode() {
 
 function downloadPDF() {
   const link = document.createElement("a");
-  link.href = "rohit-resume.pdf";
+  link.href = "Rohit-CV.pdf";
 
   link.download = "Rohit-Chuhan-CV.pdf";
   link.target = "blank";
